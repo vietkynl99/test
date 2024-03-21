@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <!-- <remote  name="test" fetch="https://github.com/vietkynl99" /> -->
-    <remote name="seapath" fetch="https://github.com/seapath"/>
+    <remote  name="origin" fetch="https://github.com/vietkynl99" />
 
-    <!-- <project name="test" path="path/to/project1"  revision="main" /> -->
-    <project name="meta-seapath" revision="master" remote="seapath" path="yocto-bsp/sources/meta-seapath"/>
+    <project name="test" path="path/to/project1"  revision="main" />
 </manifest>
