@@ -2,5 +2,5 @@
 <manifest>
     <remote  name="test" fetch="https://github.com/vietkynl99" />
 
-    <project name="test" path="path/to/project1"  revision="main" />
+    <project name="test" path="path/to/project1" remote="origin" revision="main" />
 </manifest>
